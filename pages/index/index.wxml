@@ -8,6 +8,7 @@
     </block>
 
     <button open-type="getUserInfo" bindgetuserinfo="getCoupon">领取优惠劵：addCoupon</button>
+    
     <button open-type="getUserInfo" bindgetuserinfo="couponList">我的优惠劵：couponList</button>
   </view>
   <view class="usermotto">
